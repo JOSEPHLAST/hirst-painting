@@ -25,10 +25,10 @@ pip install turtle colorgram
 python main.py
 
 ## 🎮 HOW IT WORKS
-🟢 Extracts colors from an image using colorgram
-🎨 Uses random colors to paint dots on a grid
-🐢 Utilizes Python’s Turtle library for drawing
-📏 Adjustable dot size, spacing, and grid size
+🟢 Extracts colors from an image using colorgram   
+🎨 Uses random colors to paint dots on a grid  
+🐢 Utilizes Python’s Turtle library for drawing   
+📏 Adjustable dot size, spacing, and grid size   
 
 ## 🛠️ TECHNOLOGIES USED
 	•	🐍 Python
@@ -36,13 +36,13 @@ python main.py
 	•	🎨 Colorgram Library (for extracting colors)
 
 ## 🚀 FUTURE IMPROVEMENTS
-✨ Allow users to choose custom images for color extraction 📸
-✨ Add randomized patterns instead of a grid 🎭
-✨ Implement a GUI version using Tkinter 🖥️
+✨ Allow users to choose custom images for color extraction 📸   
+✨ Add randomized patterns instead of a grid 🎭   
+✨ Implement a GUI version using Tkinter 🖥️   
 
 ## 📫 CONNECT WITH ME
-🔗 GitHub: [github.com/JOSEPHLAST](https://github.com/JOSEPHLAST)
-🔗 Portfolio: [josephlast.github.io](https://josephlast.github.io)
-🔗 LinkedIn: [Josephlast](https://www.linkedin.com/in/josephlast-a-aaa813354/)
+🔗 GitHub: [github.com/JOSEPHLAST](https://github.com/JOSEPHLAST)   
+🔗 Portfolio: [josephlast.github.io](https://josephlast.github.io)   
+🔗 LinkedIn: [Josephlast](https://www.linkedin.com/in/josephlast-a-aaa813354/)   
 
 🚀 “Code, Create, and Color the World!
