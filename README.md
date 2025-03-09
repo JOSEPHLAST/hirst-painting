@@ -14,7 +14,7 @@ This Python project recreates a **Hirst-style dot painting** using the **Turtle*
 ## **🚀 INSTALLATION AND SETUP**  
 
 ### **1️⃣ Clone the Repository**  
-git clone https://github.com/JOSEPHLAST/hirst-painting.git
+git clone https://github.com/JOSEPHLAST/hirst-painting.git    
 cd hirst-painting
 
 ### **2️⃣ Install Dependencies**
